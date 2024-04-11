@@ -7,4 +7,4 @@
 3) ["О уровне счастья в мире"](https://happyplanetindex.org/countries/)
 
 
-[Ссылка на демонстрацию Streamlit - тут (Клик!)]()
+[Ссылка на демонстрацию Streamlit - тут (Клик!)](https://startindsgit-hhvhymad69oajcnpfc3bsr.streamlit.app/)
